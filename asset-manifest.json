@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/warplunavisual/static/css/main.baed6969.css",
+    "main.js": "/warplunavisual/static/js/main.cae324c3.js",
+    "index.html": "/warplunavisual/index.html",
+    "main.baed6969.css.map": "/warplunavisual/static/css/main.baed6969.css.map",
+    "main.cae324c3.js.map": "/warplunavisual/static/js/main.cae324c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baed6969.css",
+    "static/js/main.cae324c3.js"
+  ]
+}
